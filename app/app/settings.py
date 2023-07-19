@@ -82,10 +82,10 @@ WSGI_APPLICATION = 'app.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': '',
-        'USER': '',
-        'PASSWORD': '',
-        'HOST': '',
+        'NAME': 'db_proyecto',
+        'USER': 'edb_admin',
+        'PASSWORD': 'Derocox0817*_',
+        'HOST': 'p-ppchhf88lu.pg.biganimal.io',
         'PORT': '5432'
     }
 }
