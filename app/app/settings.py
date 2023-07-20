@@ -84,7 +84,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'db_proyecto',
         'USER': 'edb_admin',
-        'PASSWORD': 'Derocox0817*_',
+        'PASSWORD': '',
         'HOST': 'p-ppchhf88lu.pg.biganimal.io',
         'PORT': '5432'
     }
